@@ -1,11 +1,12 @@
+import KeyFrame from "./components/KeyFrame"
+import Sample from "./components/Sample"
 
 
 function App() {
-
-
   return (
     <>
-<h1>Hello world</h1>
+      {/* <Sample /> */}
+      <KeyFrame />
     </>
   )
 }
