@@ -1,5 +1,5 @@
-import { motion } from "motion/react"
 
+import { motion } from "motion/react"
 export default function ButtonTap() {
     return (
         <div className="flex flex-col justify-center items-center">
